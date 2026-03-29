@@ -8,10 +8,10 @@ const CONFIG = {
     // 2. Click on Server Settings > Integrations > Webhooks
     // 3. Click "New Webhook" and configure it
     // 4. Copy the webhook URL and paste it here
-    DISCORD_WEBHOOK_URL: 'YOUR_DISCORD_WEBHOOK_URL_HERE',
+    DISCORD_WEBHOOK_URL: 'https://discord.com/api/webhooks/1487819169050394636/xDGrBoBciE6Ttl30mS5K-CnFQai3jrOkPHbVQvRzUdUtNOYZ-jM07r3zKUCyivmKeXhw',
     
     // Bot username that will appear in Discord (optional)
-    BOT_USERNAME: 'Freedom Wall',
+    BOT_USERNAME: 'Spidey Bot',
     
     // Bot avatar URL that will appear in Discord (optional)
     BOT_AVATAR_URL: '',
